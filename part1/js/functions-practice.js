@@ -29,6 +29,7 @@ function percentOf(){
 }
 percentOf();
 window.document.write("STEP 3. " + num1 + " is " + perc + " % of " + num2 + "<br>");
+
 //STEP 4
 
 var mod1 = parseFloat(window.prompt("Please enter number 1"));
@@ -42,6 +43,7 @@ findModulus();
 window.document.write("STEP 4. " + mod + " is the modulus of " + mod1 + " and " + mod2 + "<br>");
 
 //STEP 5
+
 var add = 0;
 function addNumbers() {
     "use strict";
