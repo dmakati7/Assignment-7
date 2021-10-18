@@ -46,7 +46,7 @@ function displayMenu() {
     "use strict";
     window.console.log("Welcome to the Inventory Management Application");
     window.console.log("");
-    window.console.log("COMMAND MENU");
+    window.console.log("Command Menu");
     window.console.log("view - view all products");
     window.console.log("update - update inventory");
     window.console.log("exit - exit the program");
