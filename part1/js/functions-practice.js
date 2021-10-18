@@ -1,3 +1,6 @@
+/*eslint-env browser*/
+
+
 //STEP 1
 
 var num = parseFloat(window.prompt("Please enter a number"));
