@@ -17,9 +17,9 @@ function playGame() {
     } while (myChoice !== "ROCK" && myChoice !== "SCISSORS" && myChoice !== "PAPER");
     
     num = Math.random();
-    if (num < 0.33) {
+    if (num < 0.3) {
         computerChoice = "ROCK";
-    } else if (num > 0.66) {
+    } else if (num > 0.6) {
         computerChoice = "PAPER";
     } else {
         computerChoice = "SCISSORS";
